@@ -1,3 +1,3 @@
 # spotify_clone
-This is my first repository
+This is my first repository:
 author-kommu rajinikanth
